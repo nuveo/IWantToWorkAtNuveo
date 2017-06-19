@@ -4,7 +4,7 @@ Nuveo nasceu focada em soluções de automatização usando Inteligência artifi
 ## Como eu faço para trabalhar na Nuveo?
 
 - Escolha uma vaga
-- Envie email para contato@nuveo.com.br
+- Envie email para talentos@nuveo.com.br
 - Assunto do email? Titulo da vaga
 - Conteudo do email?
 - - Github
