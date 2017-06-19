@@ -65,7 +65,7 @@ São Paulo (ou remoto)
 ### Desenvolvedor Frontend Senior (1 Vaga)
 
 - JavaScript, HTML5, CSS3
-- Frameworks CSS: Material Design, Bootstrap e Fundacional
+- Frameworks CSS: Material Design, Bootstrap e Foundation
 - Sass, LESS
 - AngularJS e React
 - Automatizadores Gulp, Bower, Yeoman
