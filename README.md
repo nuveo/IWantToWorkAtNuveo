@@ -8,7 +8,7 @@ Nuveo nasceu focada em soluções de automatização usando Inteligência artifi
 - Assunto do email? Titulo da vaga
 - Conteudo do email?
 - - Github
-- - LinkdIn
+- - LinkedIn
 - - Breve texto sobre sua experiência
 
 ## Condições e Benefícios Oferecidos
