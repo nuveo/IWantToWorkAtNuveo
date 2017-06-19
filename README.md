@@ -7,9 +7,9 @@ Nuveo nasceu focada em soluções de automatização usando Inteligência artifi
 - Envie email para talentos@nuveo.com.br
 - Assunto do email? Titulo da vaga
 - Conteudo do email?
-- - Github
-- - LinkedIn
-- - Breve texto sobre sua experiência
+  * Github
+  * LinkedIn
+  * Breve texto sobre sua experiência
 
 ## Condições e Benefícios Oferecidos
 
@@ -34,7 +34,7 @@ Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo
 - Prática de desenvolvimento de teste (TDD e BDD)
 - Desenvolvimento usando PostgreSQL e banco não relacional
 - Experiência em uso de fila para processamento distribuído
-- Linguagens: Go, Python (desejável que conheça mais de 3 linguagem de programação)
+- Linguagens: Go, Python (desejável que conheça mais de 3 linguagens de programação)
 
 Diferenciais Técnico:
 - Experiência com AWS e ambiente de Cloud
@@ -69,7 +69,7 @@ São Paulo (ou remoto)
 - Sass, LESS
 - AngularJS e React
 - Automatizadores Gulp, Bower, Yeoman
-- git (e outros cli que ajuda no dia a dia)
+- git (e outros cli que ajudam no dia a dia)
 - UI/UX
 
 Diferenciais Técnico:
