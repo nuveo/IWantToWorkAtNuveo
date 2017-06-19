@@ -25,7 +25,7 @@ Oferecemos salário de mercado!
 
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, mande email com o assunto "Nenhuma vaga disponível".
 
-### Engenheiro(a) de Software Sênior (1 Vaga)
+### Engenheiro(a) de Software Sênior - 1 Vaga
 
 - RPC, HTTP e conhecer design de API RESTfull
 - Métricas e segurança de APIs
@@ -43,7 +43,7 @@ Diferenciais Técnico:
 Local de trabalho:
 São Paulo (ou remoto)
 
-### Desenvolvedor Backend Pleno (2 Vagas)
+### Desenvolvedor Backend Pleno - 2 Vagas
 
 - Linguagens: Go, Python ou Ruby (desejável que conheça mais de uma linguagem de programação)
 - Desenvolvimento orientado a objetos
@@ -62,7 +62,7 @@ Diferenciais Técnico:
 Local de trabalho:
 São Paulo (ou remoto)
 
-### Desenvolvedor Frontend Senior (1 Vaga)
+### Desenvolvedor Frontend Senior - 1 Vaga
 
 - JavaScript, HTML5, CSS3
 - Frameworks CSS: Material Design, Bootstrap e Foundation
@@ -79,3 +79,21 @@ Diferenciais Técnico:
 
 Local de trabalho:
 São Paulo (ou remoto)
+
+### Gerente de projeto (foco em desenvolvimento de software) - 1 Vaga
+
+Ser interface do time de desenvolvimento com time de projeto da Nuveo, ou seja, ter clara comunicação é requisito
+
+- Experiência em times ágeis de desenvolvimento como Agile Coach, ScrumMaster, Product Owner ou Team Lead
+- Conhecimento sobre métodos ágeis, dinâmicas de grupo, coaching e boa comunicação;
+- Ser alguém que desafia o status quo e conduz a mudança para possibilitar que o seu time, departamento ou empresa tenha processos eficazes
+- Ser alguém que se importa em aprender coisas novas, procura entender o contexto e os problemas para decidir como agir, sem apego a ferramentas ou ideologias.
+
+Diferenciais Técnico:
+- Ter trabalhado como desenvolvedor
+- Conhecer arquitetura de software
+- Prática de desenvolvimento de teste (TDD e BDD)
+- Conhecer ambiente de Cloud
+
+Local de trabalho:
+São Paulo, Pinheiros
