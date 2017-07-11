@@ -25,25 +25,7 @@ Oferecemos salário de mercado!
 
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, mande email com o assunto "Nenhuma vaga disponível".
 
-### Engenheiro(a) de Software Sênior - 1 Vaga
-
-- RPC, HTTP e conhecer design de API RESTfull
-- Métricas e segurança de APIs
-- Continuous Integration
-- Desenvolvimento orientado a objetos e funcional
-- Prática de desenvolvimento de teste (TDD e BDD)
-- Desenvolvimento usando PostgreSQL e banco não relacional
-- Experiência em uso de fila para processamento distribuído
-- Linguagens: Go, Python (desejável que conheça mais de 3 linguagens de programação)
-
-Diferenciais Técnico:
-- Experiência com AWS e ambiente de Cloud
-- Experiência em construir ambiente de build, teste e deployment automatizados
-
-Local de trabalho:
-São Paulo (ou remoto)
-
-### Desenvolvedor Backend Pleno - 2 Vagas
+### Desenvolvedor Backend Pleno - 1 Vagas
 
 - Linguagens: Go, Python ou Ruby (desejável que conheça mais de uma linguagem de programação)
 - Desenvolvimento orientado a objetos
