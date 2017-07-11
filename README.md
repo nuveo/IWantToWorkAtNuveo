@@ -25,6 +25,18 @@ Oferecemos salário de mercado!
 
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, mande email com o assunto "Nenhuma vaga disponível".
 
+
+### Desenvolvedor Backend Junior - 1 Vagas
+
+- Linguagens: Java, C#, Python ou uma linguagem de programação
+- Desenvolvimento orientado a objetos
+- Banco de dados relacional
+- Git (controle de versão)
+- Uso de sistema operacional base Unix (Linux ou macOS)
+
+Local de trabalho:
+São Paulo, Pinheiros
+
 ### Desenvolvedor Backend Pleno - 1 Vagas
 
 - Linguagens: Go, Python ou Ruby (desejável que conheça mais de uma linguagem de programação)
