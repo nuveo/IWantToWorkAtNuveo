@@ -25,37 +25,6 @@ Oferecemos salário de mercado!
 
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, mande email com o assunto "Nenhuma vaga disponível".
 
-
-### Desenvolvedor Backend Junior - 1 Vagas
-
-- Linguagens: Java, C#, Python ou uma linguagem de programação
-- Desenvolvimento orientado a objetos
-- Banco de dados relacional
-- Git (controle de versão)
-- Uso de sistema operacional base Unix (Linux ou macOS)
-
-Local de trabalho:
-São Paulo, Pinheiros
-
-### Desenvolvedor Backend Pleno - 1 Vagas
-
-- Linguagens: Go, Python ou Ruby (desejável que conheça mais de uma linguagem de programação)
-- Desenvolvimento orientado a objetos
-- Design de APIs RESTful
-- Desenvolvimento usando PostgreSQL e banco não relacional (desejável)
-- Documentação de código e serviços
-- Git (usamos Github)
-- Proficiência no uso de um sistema operacional base Unix (Linux ou macOS)
-
-Diferenciais Técnico:
-- RPC e HTTP
-- Desenvolvimento funcional
-- Prática de desenvolvimento de teste (TDD e BDD)
-- Experiência em uso de fila para processamento distribuído
-
-Local de trabalho:
-São Paulo (ou remoto)
-
 ### Desenvolvedor Frontend Senior - 1 Vaga
 
 - JavaScript, HTML5, CSS3
@@ -73,21 +42,3 @@ Diferenciais Técnico:
 
 Local de trabalho:
 São Paulo (ou remoto)
-
-### Gerente de projeto (foco em desenvolvimento de software) - 1 Vaga
-
-Ser interface do time de desenvolvimento com time de projeto da Nuveo, ou seja, ter clara comunicação é requisito
-
-- Experiência em times ágeis de desenvolvimento como Agile Coach, ScrumMaster, Product Owner ou Team Lead
-- Conhecimento sobre métodos ágeis, dinâmicas de grupo, coaching e boa comunicação;
-- Ser alguém que desafia o status quo e conduz a mudança para possibilitar que o seu time, departamento ou empresa tenha processos eficazes
-- Ser alguém que se importa em aprender coisas novas, procura entender o contexto e os problemas para decidir como agir, sem apego a ferramentas ou ideologias.
-
-Diferenciais Técnico:
-- Ter trabalhado como desenvolvedor
-- Conhecer arquitetura de software
-- Prática de desenvolvimento de teste (TDD e BDD)
-- Conhecer ambiente de Cloud
-
-Local de trabalho:
-São Paulo, Pinheiros
