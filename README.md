@@ -25,20 +25,22 @@ Oferecemos salário de mercado!
 
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, mande email com o assunto "Nenhuma vaga disponível".
 
-### Desenvolvedor Frontend Senior - 1 Vaga
+### Desenvolvedor Backend Pleno - 1 Vagas
 
-- JavaScript, HTML5, CSS3
-- Frameworks CSS: Material Design, Bootstrap e Foundation
-- Sass, LESS
-- AngularJS e React
-- Automatizadores Gulp, Bower, Yeoman
-- git (e outros cli que ajudam no dia a dia)
-- UI/UX
+- Linguagens: Go, Python ou Ruby (desejável que conheça mais de uma linguagem de programação)
+- Scrapping (tecnicas de raspagem de dados)
+- Desenvolvimento orientado a objetos
+- Design de APIs RESTful
+- Desenvolvimento usando PostgreSQL e banco não relacional (desejável)
+- Documentação de código e serviços
+- Git (usamos Github)
+- Proficiência no uso de um sistema operacional base Unix (Linux ou macOS)
 
 Diferenciais Técnico:
-- Photoshop
-- NodeJS e Python
-- Banco Relacional e NoSQL
+- RPC e HTTP
+- Desenvolvimento funcional
+- Prática de desenvolvimento de teste (TDD e BDD)
+- Experiência em uso de fila para processamento distribuído
 
 Local de trabalho:
 São Paulo (ou remoto)
