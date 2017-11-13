@@ -24,23 +24,3 @@ Oferecemos salário de mercado!
 ## Vagas Disponíveis
 
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, mande email com o assunto "Nenhuma vaga disponível".
-
-### Desenvolvedor Backend Pleno - 1 Vagas
-
-- Linguagens: Go, Python ou Ruby (desejável que conheça mais de uma linguagem de programação)
-- Scrapping (tecnicas de raspagem de dados)
-- Desenvolvimento orientado a objetos
-- Design de APIs RESTful
-- Desenvolvimento usando PostgreSQL e banco não relacional (desejável)
-- Documentação de código e serviços
-- Git (usamos Github)
-- Proficiência no uso de um sistema operacional base Unix (Linux ou macOS)
-
-Diferenciais Técnico:
-- RPC e HTTP
-- Desenvolvimento funcional
-- Prática de desenvolvimento de teste (TDD e BDD)
-- Experiência em uso de fila para processamento distribuído
-
-Local de trabalho:
-São Paulo (ou remoto)
