@@ -27,6 +27,19 @@ Oferecemos salário de mercado!
 
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, mande email com o assunto "Nenhuma vaga disponível".
 
+### Product Owner/Product Manager
+- Conhecimento em práticas Lean e métodos agéis
+- Conhecimento em Roadmap e priorização
+- Familiaridade em KPIs e OKRs
+- Documentação de requisitos e User Story Mapping
+- Habilidade em negociar com diversas empresas clientes e stakeholders
+Diferenciais:
+- Kanban
+- Desejável conhecimento em desenvolvimento de softawre
+- Design Thinking
+Local de trabalho:
+São Paulo (a combinar alguns dias da semana como home-office)
+
 ### Desenvolvedor Computer Vision/AI/Machine Learning
 - Linguagens: Python (Numpy) ou Golang e C++
 - Design de APIs RESTful

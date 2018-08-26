@@ -1,9 +1,9 @@
 # Nuveo
-It's a company has a goal process and services automation based in Artificial Inteligence. We are begining new projects and reinforce our teams to build systems will integrate to our Computer Vision/AI plataform
+It's a company having as goal the process and services automation based in Artificial Inteligence. We're starting new projects and reinforcing our teams to build systems that will integrate to our Computer Vision/AI plataform.
 
 Please, if you wish to look opportunity in Sao Paulo, look [here](https://github.com/nuveo/IWantToWorkAtNuveo/blob/master/README.md)
 
-## How I choose a oportunity?
+## How do I choose an oportunity?
 
 - Find an opportunity
 - Send email to talentos@nuveo.ai
@@ -13,61 +13,14 @@ Please, if you wish to look opportunity in Sao Paulo, look [here](https://github
   * LinkedIn
   * Tell us about your skills and experience
 
-## Condições e Benefícios Oferecidos
-
+## Conditions and benefits offered
 - Home Office
-- Regime: PJ if you live in Brazil
-- Período: Integral;
-
-## Vagas Disponíveis
-
-We are often looking for talents! Even thow you don't opportunity below, send us email with subject "No opportunity avaliable".
-
-### Computer Vision/AI/Machine Learning Developer
-- Languages: Python or Golang and C++
-- RESTful APIs
-- Tesseract
-- Tensorflow
-- OpenCV
-- Signal Processing
-- Machine Learn
-- AI 
-- Image Pre-Processing
-- OCR
-Plus:
-- RPC, HTTP and/or GRPC 
-- TDD and BDD
-- Broker Message (Rabbitmq, Kafka, etc.)
-- Containers
-- Microservices
-- Deep Learn
-- Numpy
-- Scikit-learn
-- Pandas
-- Pytorch
-- Keras
-- Hevc# Nuveo
-It's a company has a goal process and services automation based in Artificial Intelligence. We are beginning new projects and reinforce our teams to build systems will integrate to our Computer Vision/AI platform
-
-## How I choose a opportunity?
-
-- Find an opportunity
-- Send email to talentos@nuveo.ai
-- Subject: Opportunity title
-- Email content?
-  * Github
-  * LinkedIn
-  * Tell us about your skills and experience
-
-## Condition and benefits
-
-- Home Office
-- Regime: PJ if you live in Brazil
-- Full-time
+- Contract: PJ if you live in Brazil
+- Time: Full;
 
 ## Opportunities
 
-We are often looking for talents! Even throw you don't opportunity below, send us email with subject "No opportunity avaliable".
+We are often looking for talents! Even if there's no opportunity below, email us with subject "No opportunity avaliable".
 
 ### Computer Vision/AI/Machine Learning Developer
 - Languages: Python or Golang and C++
@@ -93,8 +46,7 @@ Plus:
 - Pytorch
 - Keras
 - Hevc
-Location:
-Remote
+It's a company has a goal process and services automation based in Artificial Intelligence. We are beginning new projects and reinforce our teams to build systems will integrate to our Computer Vision/AI platform
 
 ### Fullstack Developer
 - Languages: Go, Python, Ruby or Javascript/NodeJS
@@ -129,7 +81,6 @@ Plus:
 - AWS or Google Cloud
 - Microservices
 - Continuos Delivery and Continuous Deployment
-
 Location:
 Remote
 
@@ -173,56 +124,3 @@ Location:
 Remote
 Location:
 Remote
-
-### Fullstack
-- Languages: Go, Python, Ruby ou Javascript/NodeJS
-- Web Scrapping
-- Object Oriented Development
-- RESTful APIs
-- PostgreSQL and NoSQL 
-- Code and services Documentation
-- Development base Trunk/Naster or Gitflow
-- Knowlegde to Proficiência no uso de um sistema operacional base Unix (Linux ou macOS)
-Diferenciais Técnico:
-- RPC, HTTP e/ou GRPC 
-- Prática de desenvolvimento de teste (TDD e BDD)
-- Experiência em uso de fila para processamento distribuído
-- Conhecimento de containers 
-- Experiência em Micro Serviços
-Local de trabalho:
-Remote
-
-### Desenvolvedor Backend
-- RPC, HTTP e conhecer design de API RESTfull
-- Métricas e segurança de APIs
-- Continuous Integration
-- Desenvolvimento orientado a objetos
-- Prática de desenvolvimento de teste (TDD e BDD)
-- Desenvolvimento usando PostgreSQL e banco não relacional
-- Experiência em uso de fila para processamento distribuído
-- Desenvolvimento baseado no Trunk/Master ou Gitflow
-- Linguagens: Go Python
-Diferenciais Técnico:
-- Experiência com AWS ou  Google Cloud
-- Experiência em Micro Serviços
-- Experiência em construir ambiente de build, teste e deployment automatizados
-- Experiência em uso de fila para processamento distribuído
-Local de trabalho:
-São Paulo
-
-### Desenvolvedor Frontend 
-- Linguagens: JavaScript, HTML5, CSS3
-- Frameworks CSS: Material Design, Bootstrap e Fundacional
-- Sass, LESS
-- AngularJS e React
-- Automatizadores Gulp, Bower, Yeoman
-- Desenvolvimento baseado no Trunk/Master ou Gitflow
-- UI/UX
-Diferenciais Técnico:
-- Photoshop
-- NodeJS e Python
-- Banco Relacional e NoSQL
-- Experiência em uso de fila para processamento distribuído
-- PWA
-Local de trabalho:
-São Paulo
