@@ -32,11 +32,11 @@ Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo
 - Conhecimento em Roadmap e priorização
 - Familiaridade em KPIs e OKRs
 - Documentação de requisitos e User Story Mapping
-- Habilidade em negociar com diversas empresas clientes e stakeholders
+- Habilidade em negociar com diversas empresas clientes e stakeholders  
 Diferenciais:
 - Kanban
-- Desejável conhecimento em desenvolvimento de softawre
-- Design Thinking
+- Desejável conhecimento em desenvolvimento de software
+- Design Thinking  
 Local de trabalho:
 São Paulo (a combinar alguns dias da semana como home-office)
 
@@ -49,8 +49,8 @@ São Paulo (a combinar alguns dias da semana como home-office)
 - Machine Learn
 - AI 
 - Image Pre-Processing
-- OCR
-Diferenciais Técnico:
+- OCR  
+Diferenciais Técnicos:
 - RPC, HTTP e/ou GRPC 
 - Prática de desenvolvimento de teste (TDD e BDD)
 - Experiência em uso de fila para processamento distribuído
@@ -62,7 +62,7 @@ Diferenciais Técnico:
 - Pandas
 - Pytorch
 - Keras
-- Hevc
+- Hevc  
 Local de trabalho: 
 Preferencialmente São Paulo mesmo para remoto
 
@@ -74,13 +74,13 @@ Preferencialmente São Paulo mesmo para remoto
 - Desenvolvimento usando PostgreSQL e banco não relacional (desejável)
 - Documentação de código e serviços
 - Desenvolvimento baseado no Trunk/Master ou Gitflow
-- Proficiência no uso de um sistema operacional base Unix (Linux ou macOS)
-Diferenciais Técnico:
+- Proficiência no uso de um sistema operacional base Unix (Linux ou macOS)  
+Diferenciais Técnicos:
 - RPC, HTTP e/ou GRPC 
 - Prática de desenvolvimento de teste (TDD e BDD)
 - Experiência em uso de fila para processamento distribuído
 - Conhecimento de containers 
-- Experiência em Micro Serviços
+- Experiência em Micro Serviços  
 Local de trabalho:
 São Paulo
 
@@ -93,12 +93,12 @@ São Paulo
 - Desenvolvimento usando PostgreSQL e banco não relacional
 - Experiência em uso de fila para processamento distribuído
 - Desenvolvimento baseado no Trunk/Master ou Gitflow
-- Linguagens: Go Python
-Diferenciais Técnico:
+- Linguagens: Go Python  
+Diferenciais Técnicos:
 - Experiência com AWS ou  Google Cloud
 - Experiência em Micro Serviços
 - Experiência em construir ambiente de build, teste e deployment automatizados
-- Experiência em uso de fila para processamento distribuído
+- Experiência em uso de fila para processamento distribuído  
 Local de trabalho:
 São Paulo
 
@@ -109,12 +109,12 @@ São Paulo
 - AngularJS e React
 - Automatizadores Gulp, Bower, Yeoman
 - Desenvolvimento baseado no Trunk/Master ou Gitflow
-- UI/UX
-Diferenciais Técnico:
+- UI/UX  
+Diferenciais Técnicos:
 - Photoshop
 - NodeJS e Python
 - Banco Relacional e NoSQL
 - Experiência em uso de fila para processamento distribuído
-- PWA
+- PWA  
 Local de trabalho:
 São Paulo
