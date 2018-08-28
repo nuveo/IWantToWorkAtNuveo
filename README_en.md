@@ -32,7 +32,7 @@ We are often looking for talents! Even if there's no opportunity below, email us
 - Machine Learn
 - AI 
 - Image Pre-Processing
-- OCR
+- OCR  
 Plus:
 - RPC, HTTP and/or GRPC 
 - TDD and BDD
@@ -45,7 +45,7 @@ Plus:
 - Pandas
 - Pytorch
 - Keras
-- Hevc
+- Hevc  
 It's a company has a goal process and services automation based in Artificial Intelligence. We are beginning new projects and reinforce our teams to build systems will integrate to our Computer Vision/AI platform
 
 ### Fullstack Developer
@@ -60,11 +60,11 @@ It's a company has a goal process and services automation based in Artificial In
 - TDD and BDD
 - Broker Message (Rabbitmq, Kafka, etc.)
 - Containers
-- Microservices
+- Microservices  
 Plus:
 - RPC, HTTP e/ou GRPC 
 - PWA
-- AngularJS
+- AngularJS  
 Location:
 Remote
 
@@ -76,11 +76,11 @@ Remote
 - TDD and BDD
 - PostgreSQL and NoSQL 
 - Broker Message (Rabbitmq, Kafka, etc.)
-- Development base Trunk/Master or Gitflow
+- Development base Trunk/Master or Gitflow  
 Plus:
 - AWS or Google Cloud
 - Microservices
-- Continuos Delivery and Continuous Deployment
+- Continuos Delivery and Continuous Deployment  
 Location:
 Remote
 
@@ -91,13 +91,13 @@ Remote
 - AngularJS e React
 - Gulp, Bower, Yeoman
 - Development base Trunk/Master or Gitflow
-- UI/UX
+- UI/UX  
 Plus:
 - Photoshop
 - NodeJS and Python
 - PostgreSQL and NoSQL
 - Broker Message (Rabbitmq, Kafka, etc.)
-- PWA
+- PWA  
 Location:
 Remote
 
@@ -113,14 +113,12 @@ Remote
 - HTTP, HTTP2 and TLS
 - Load Balance
 - Log inspection
-- Continuous Delivery
+- Continuous Delivery  
 Plus:
 - Golang
 - Observability
 - Monitoring
 - WAF
-- DDoS mitigation
-Location:
-Remote
+- DDoS mitigation  
 Location:
 Remote
