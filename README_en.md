@@ -8,7 +8,7 @@ Please, if you wish to look opportunity in Sao Paulo, look [here](https://github
 - Find an opportunity
 - Send email to talentos@nuveo.ai
 - Subject: Opportunity title
-- Emai content?
+- Email content?
   * Github
   * LinkedIn
   * Tell us about your skills and experience
