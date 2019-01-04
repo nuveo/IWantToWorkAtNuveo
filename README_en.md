@@ -20,7 +20,7 @@ Please, if you wish to look opportunity in Sao Paulo, look [here](https://github
 
 ## Opportunities
 
-We are often looking for talents! Even if there's no opportunity below, email us with subject "No opportunity avaliable".
+We are often looking for talents! Even if there's no opportunity below, email us with subject "No opportunity available".
 
 ### Computer Vision/AI/Machine Learning Developer
 - Languages: Python or Golang and C++
