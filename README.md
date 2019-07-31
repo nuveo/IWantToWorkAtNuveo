@@ -1,26 +1,43 @@
 # Nuveo
-Nuveo nasceu focada em soluções de automatização usando Inteligência artificial.
-
+Somos focados em desenvolver soluções de software para automação de processos e serviços usando Inteligência Artificial (Visão Computacional e Natural Language Processing) para empresas e organizações que trabalham conosco.
+ 
+Estamos baseados em São Paulo e nossa equipe de Engenharia trabalha 100% remoto e algumas tecnologias que usamos:
+ 
+- Python, Golang, Angular, PostgreSQL, Pub/Sub, AMQP, Selenium
+- Containers, Continuous Delivery, TDD, Terraform, Ansible
+ 
 ## Como eu faço para trabalhar na Nuveo?
-
+ 
 - Escolha uma vaga
 - Envie email para talentos@nuveo.ai
-- Assunto do email? Titulo da vaga
-- Conteudo do email?
-  * Github
-  * LinkedIn
-  * Breve texto sobre sua experiência
-
+- Assunto do email? Título da vaga
+- Conteúdo do email?
+ * Github
+ * LinkedIn
+ * Breve texto sobre sua experiência
+ 
 ## Condições e Benefícios Oferecidos
-
-- São Paulo - Região de Pinheiros (com vagas para trabalho remoto, leia a descrição da vaga)
-- Regime: PJ ou CLT
-- Período: Integral;
-- Plano de carreira;
-- Contratação imediata;
-
-Oferecemos salário de mercado!
-
-## Vagas Disponíveis
-
+ 
+- Remoto
+- Período: Integral
+ 
+# Vagas Disponíveis
+ 
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, mande email com o assunto "Nenhuma vaga disponível".
+ 
+## Pessoa Desenvolvedora de Software
+ 
+### O que procuramos
+ 
+* Conhecimento em desenvolvimento de aplicações em Python
+* Facilidade de comunicação escrita e falada
+* Conhecimento com banco de dados PostgreSQL
+* Gostar de trabalhar remoto e em equipe multidisciplinares
+* Contribuir para melhorar a qualidade dos serviços e desenvolvimento da equipe
+* Noções de práticas de desenvolvimento como: entrega contínua, TDD, refatoração, code smells, monolitos, microsserviços, DDD, CQRS, etc.
+ 
+### O que valorizamos
+
+* Conhecimento de tecnologias em nuvem como AWS e GCP
+* Experiência de práticas como Kanban e XP
+* Disposição de aprender tecnologias e linguagens de programação
