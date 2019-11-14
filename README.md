@@ -22,7 +22,9 @@ Estamos baseados em São Paulo e nossa equipe de Engenharia trabalha 100% remoto
 - Período: Integral
  
 # Vagas Disponíveis
- 
+
+[Golang São Paulo](timeproxy.md)
+
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, mande email com o assunto "Nenhuma vaga disponível".
  
 ## Pessoa Desenvolvedora de Software
