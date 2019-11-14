@@ -1,7 +1,7 @@
 # Backend Golang 
 *(ou qualquer linguagem C like para que lhe ensinemos Go)*
 
-Estamos em busca de pessoas que abraçam desafios e que desejam construir o futuro conosco. Possuímos tecnologias proprietárias de Inteligência Artificia e estamos desbravando mercados inexplorados dentro do universo da Visão Computacional. Acreditamos que não existe limites para o que estamos construindo e para isso queremos pessoas que sonham grande e são orientadas por resultados para nos ajudar a construir esse legado.
+Estamos em busca de pessoas que abraçam desafios e que desejam construir o futuro conosco. Possuímos tecnologias proprietárias de Inteligência Artificial e estamos desbravando mercados inexplorados dentro do universo da Visão Computacional. Acreditamos que não existe limites para o que estamos construindo e para isso queremos pessoas que sonham grande e são orientadas por resultados para nos ajudar a construir esse legado.
 
 
 Em um ambiente leve, com muita autonomia e muito autogerenciamento, esperamos que você contribua nas discussões técnicas sobre os desafios encontrados, participando da formação técnica do time, compartilhando conhecimentos com a empresa e com a comunidade.
